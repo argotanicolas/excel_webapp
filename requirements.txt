@@ -4,3 +4,4 @@ xlrd
 streamlit
 plotly
 Pillow
+openpyxl
